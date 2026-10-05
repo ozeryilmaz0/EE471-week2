@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#Junior Dev: Hasan Özer Yılmaz
-=======
 #Senior Dev: Hasan Özer Yılmaz
->>>>>>> feat/optimum-conform
 #Programming for the Puzzled -- Srini Devadas
 #You Will All Conform
 #Input is a vector of F's and B's, in terms of forwards and backwards caps
@@ -60,3 +56,4 @@ pleaseConform(cap1)
 ##pleaseConform(cap2)
 ##pleaseConformOnepass(cap1)
 # optimum conform added
+#tech lead review change
